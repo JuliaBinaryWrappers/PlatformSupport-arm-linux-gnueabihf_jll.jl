@@ -1,0 +1,9 @@
+[[PlatformSupport-arm-linux-gnueabihf]]
+arch = "x86_64"
+git-tree-sha1 = "cb1f7bb6fe221b5bd72fc77e615e462837cea1d9"
+libc = "musl"
+os = "linux"
+
+    [[PlatformSupport-arm-linux-gnueabihf.download]]
+    sha256 = "c6b78ec7e89418a9de5bf6ebe1a8081fc147193014fcf681fe30dc02b910b7ee"
+    url = "https://github.com/JuliaBinaryWrappers/PlatformSupport-arm-linux-gnueabihf_jll.jl/releases/download/PlatformSupport-arm-linux-gnueabihf-v2020.1.15+0/PlatformSupport-arm-linux-gnueabihf.v2020.1.15.x86_64-linux-musl.tar.gz"
